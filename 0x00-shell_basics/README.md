@@ -1,1 +1,1 @@
-My first commit in long format
+Learning the shell basics
